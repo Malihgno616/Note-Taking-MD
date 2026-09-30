@@ -33,7 +33,6 @@ Saves the note to the database and returns the original content along with the g
 *   **Request Body:**
     ```json
     {
-      "title": "My first note",
       "content": "# Hello World\n\nThis is a **bold** text using *Markdown*."
     }
     ```
