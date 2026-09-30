@@ -2,7 +2,7 @@
 
 This is a REST API developed with **Java 21** and **Spring Boot 4.x** for managing notes. The key feature of this application is its ability to receive Markdown-formatted text, process it, and deliver the converted content into valid HTML tags.
 
-The project was built following the specifications of the [Markdown Note-Taking App](https://roadmap.sh) challenge from Roadmap.sh.
+The project was built following the specifications of the [Markdown Note-Taking App](https://roadmap.sh/projects/markdown-note-taking-app) challenge from Roadmap.sh.
 
 ---
 
